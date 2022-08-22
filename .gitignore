@@ -1,6 +1,6 @@
 # created by virtualenv automatically
+/__pycache__
 /Lib
 /Scripts
-/__pycache__
 /share
 pyvenv.cfg
